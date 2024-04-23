@@ -1,2 +1,21 @@
-Whole Economy excluding imputed rental,Agriculture forestry and fishing,Mining and quarrying,Manufacturing,"Electricity, gas, steam and air conditioning supply","Water supply; sewerage, waste management and remediation activities",Construction,Wholesale and retail trade; repair of motor vehicles and motorcycles,Transportation and storage,Accommodation and food service activities,Information and communication,Financial and insurance activities,Real estate activities excluding imputed rental,"Professional, scientific and technical activities",Administrative and support service activities,Public administration and defence; compulsory social security,Education,Human health and social activities,"Arts, entertainment and recreation",Other service activities including households as employers
-36.73,27.15,165.29,44.66,86.70,71.99,33.92,31.64,26.11,21.46,51.46,100.69,82.70,35.76,24.03,42.13,34.18,27.12,23.70,28.20
+Sector,Productivity
+Whole Economy excluding imputed rental,36.73
+Agriculture forestry and fishing,27.15
+Mining and quarrying,165.29
+Manufacturing,44.66
+"Electricity, gas, steam and air conditioning supply",86.7
+"Water supply; sewerage, waste management and remediation activities",71.99
+Construction,33.92
+Wholesale and retail trade; repair of motor vehicles and motorcycles,31.64
+Transportation and storage,26.11
+Accommodation and food service activities,21.46
+Information and communication,51.46
+Financial and insurance activities,100.69
+Real estate activities excluding imputed rental,82.7
+"Professional, scientific and technical activities",35.76
+Administrative and support service activities,24.03
+Public administration and defence; compulsory social security,42.13
+Education,34.18
+Human health and social activities,27.12
+"Arts, entertainment and recreation",23.7
+Other service activities including households as employers,28.2
