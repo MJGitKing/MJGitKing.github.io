@@ -3,6 +3,8 @@
   "description": "Indian trade data",
   "data": {"url": "https://raw.githubusercontent.com/MJGitKing/MJGitKing.github.io/main/s5_indian_trade_data.csv"},
   "mark": "line",
+    "width": 400,
+  "height": 300,
   "encoding": {
     "x": {"field": "date", "type": "temporal"},
     "y": {"field": "value", "type": "quantitative"},
