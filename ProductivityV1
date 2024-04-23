@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+ 
+    "title": {
+    "text":"Real output per hour",
+    "subtitle": ["By sector", "Source: ONS"]},
+
+  "width": 400,
+  "height": 300,
+ 
+  "data": {"url": "https://raw.githubusercontent.com/MJGitKing/MJGitKing.github.io/main/Outputhoursworked.csv"},
+  
+  "mark": {
+    "type": "bar",
+    "color": "blue"},
+ 
+  "encoding": {
+    "x": {"field": "Sector"},  
+ 
+    "y": {
+      "field": "Productivity",
+      "type": "quantitative"}}
+}
