@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+    "text":"Renewable energy output in Australia",
+    "subtitle": ["Output in GWh", "Source: IEA"]
+  },
+
+  "width": 400,
+  "height": 300,
+
+  "data": {"url": "https://api.economicsobservatory.com/aus/rGWh?vega"},
+
+
+  "mark": "line",
+
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "axis": {"grid": false}},
+    "y": {"field": "value", "type": "quantitative", "title":null, "axis": {"grid": false}}
+  }
+}
