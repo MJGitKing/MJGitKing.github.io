@@ -1,0 +1,11 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Indian trade data",
+  "data": {"url": "https://raw.githubusercontent.com/MJGitKing/MJGitKing.github.io/main/s5_indian_trade_data.csv"},
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "date", "type": "temporal"},
+    "y": {"field": "value", "type": "quantitative"},
+    "color": {"field": "series", "legend": {"title": null, "orient": "top"}}
+  }
+}
